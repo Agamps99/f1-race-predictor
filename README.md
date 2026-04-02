@@ -2,7 +2,7 @@
 
 I watch F1 regularly and wanted to see if I could actually predict race results using data. Turns out — kind of? The model gets within 3-4 positions on average which honestly feels about right given how chaotic F1 can be.
 
-The 2026 season has been wild so far. New regulations, completely different cars, and Mercedes have built an absolute rocket. Antonelli is already winning races at 19. So I made sure to weight the 2026 data heavier in the model since last year's patterns don't really apply anymore.
+The 2026 season has been wild so far. New regulations, completely different cars, and Mercedes have built an absolute rocketship. Antonelli is already winning races at 19. So I made sure to weight the 2026 data heavier in the model since last year's patterns don't really apply anymore.
 
 ## What it does
 - Pulls live F1 data using FastF1 (official F1 timing API)
@@ -42,4 +42,4 @@ jupyter notebook f1_data.ipynb
 ```
 
 ## Author
-Agam — data science student, F1 fan, curious about whether the data can predict what happens on track.
+Agam — data science student at UTS, F1 fan, curious about whether the data can predict what happens on track.
