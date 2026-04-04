@@ -43,3 +43,6 @@ jupyter notebook f1_data.ipynb
 
 ## Author
 Agam — data science student at UTS, F1 fan, curious about whether the data can predict what happens on track.
+
+## Dashboard Preview
+![F1 Dashboard](dashboard_screenshort.png)
